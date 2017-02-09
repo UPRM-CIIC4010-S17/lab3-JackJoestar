@@ -89,6 +89,8 @@ public class MyPanelClass extends JPanel {
         g.fillRect(x1+40, y1+124, 240, 40);
         g.setColor(Color.RED);
         g.fillRect(x1+10, y1+160, 270, 40);
+		
+	//Finishing the Flag
         g.setColor(Color.BLUE);
         g.fillPolygon(p3);
         g.setColor(Color.WHITE);
